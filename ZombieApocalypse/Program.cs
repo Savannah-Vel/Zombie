@@ -9,7 +9,7 @@ namespace ZombieApocalypse
 
         }
 
-        public void startGame()
+        public void startingGame()
         {
             Console.WriteLine("On a normal day at work, you look outside the window and see a fight breaking out. Do you choose to investigate it? Type 'yes' or 'no'");
             var x = Console.ReadLine();
