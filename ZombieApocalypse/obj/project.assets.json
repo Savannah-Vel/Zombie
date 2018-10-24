@@ -860,11 +860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\savannah.strange\\Desktop\\automation\\ZombieApocalypse\\ZombieApocalypse\\ZombieApocalypse.csproj",
+      "projectUniqueName": "C:\\Users\\savannah.strange\\Automations\\Zombie\\ZombieApocalypse\\ZombieApocalypse.csproj",
       "projectName": "ZombieApocalypse",
-      "projectPath": "C:\\Users\\savannah.strange\\Desktop\\automation\\ZombieApocalypse\\ZombieApocalypse\\ZombieApocalypse.csproj",
+      "projectPath": "C:\\Users\\savannah.strange\\Automations\\Zombie\\ZombieApocalypse\\ZombieApocalypse.csproj",
       "packagesPath": "C:\\Users\\savannah.strange\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\savannah.strange\\Desktop\\automation\\ZombieApocalypse\\ZombieApocalypse\\obj\\",
+      "outputPath": "C:\\Users\\savannah.strange\\Automations\\Zombie\\ZombieApocalypse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -878,8 +878,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packages.vivint.com/artifactory/api/nuget/nuget": {}
+        "http://api.nuget.org/v3/index.json": {},
+        "http://nuget.vivint.com/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {

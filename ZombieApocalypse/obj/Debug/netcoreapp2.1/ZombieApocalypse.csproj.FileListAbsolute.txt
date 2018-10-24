@@ -9,3 +9,14 @@ C:\Users\savannah.strange\Desktop\automation\ZombieApocalypse\ZombieApocalypse\o
 C:\Users\savannah.strange\Desktop\automation\ZombieApocalypse\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.AssemblyInfo.cs
 C:\Users\savannah.strange\Desktop\automation\ZombieApocalypse\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.dll
 C:\Users\savannah.strange\Desktop\automation\ZombieApocalypse\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.pdb
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\bin\Debug\netcoreapp2.1\ZombieApocalypse.deps.json
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\bin\Debug\netcoreapp2.1\ZombieApocalypse.runtimeconfig.json
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\bin\Debug\netcoreapp2.1\ZombieApocalypse.runtimeconfig.dev.json
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\bin\Debug\netcoreapp2.1\ZombieApocalypse.dll
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\bin\Debug\netcoreapp2.1\ZombieApocalypse.pdb
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.csprojAssemblyReference.cache
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.csproj.CoreCompileInputs.cache
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.AssemblyInfoInputs.cache
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.AssemblyInfo.cs
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.dll
+C:\Users\savannah.strange\Automations\Zombie\ZombieApocalypse\obj\Debug\netcoreapp2.1\ZombieApocalypse.pdb
